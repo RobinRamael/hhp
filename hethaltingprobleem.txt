@@ -3,7 +3,7 @@ een automaat van duwen en verdrukking
 heeft zijn voeding op de stapel al gevonden  
 richt zich op, bestaat en genereert zichzelf  
   
-het expressieve regulier;  
+het reguliere expressief;  
 een machine van lichamen en discobal  
 verschuift doorheen katoen en kussens polyester  
 kamers die wij met bloed en zaad,  
