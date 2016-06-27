@@ -1,7 +1,7 @@
-dit alles is beslisbaar  
+dit alles is beslisbaar.  
 een automaat van duwen en verdrukking  
 heeft zijn voeding op de stapel al gevonden  
-richt zich op, bestaat en genereert zichzelf  
+richt zich op, bestaat en genereert zichzelf.  
   
 het reguliere expressief;  
 een machine lichamen en discobal  
