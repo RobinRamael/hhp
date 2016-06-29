@@ -18,7 +18,7 @@ de lucht extases bechamel rond onze schouders.
 zo meteen wordt ik uiteengereten  
 op een terrasje waaraan ik mij verveel  
 een jongeman herkent het westers kwaad in mijn lievelingst-shirt  
-en triggert een event  
+en triggert een event:  
   
 de moleculen in zijn jas laden een library ontploffing  
 linken zijn vlees, mijn vlees, de zuurstof rondom ons,  
