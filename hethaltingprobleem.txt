@@ -22,13 +22,14 @@ en triggert een event:
   
 de moleculen in zijn jas voeren hun instructies uit  
 en beinvloeden de moleculen in zijn vlees  
-(de werkelijkheid zoals wij ze begrijpen is een heel gammele constructie  
-het circuit is slecht gemaakt, maar het idee zit wel goed in elkaar  
-geprogrammeerd in zichzelf is alles verbonden. elk atoom een register, elk
-woord het virtueel geheugen  
+om andere instructies uit te voeren  
+  
+(ziet u, de werkelijkheid is een gammele constructie  
+het circuit is slecht gemaakt, maar het idee zit goed ineen  
+geprogrammeerd in zichzelf is alles verbonden;  
+elk atoom een register, elk woord het virtueel geheugen  
 van geschiedenis die zich rond 'gebeurtenissen' plakt  
-een proces dat steeds weer buiten zijn grenzen treed  
-)  
+een proces dat steeds weer buiten zijn eigen grenzen treed)  
   
   
 ik aan kalasjnikovs  
@@ -56,7 +57,6 @@ nigel farage wilt dat wij elkaar vernietigen.
 al-baghdadi wilt dat wij elkaar vernietigen.  
 de fysica wilt dat wij elkaar vernietigen.  
   
-het programma is slordig geschreven maar het idee zit goed ineen  
   
   
   
