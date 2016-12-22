@@ -61,7 +61,10 @@ door jouw AS, over de backbone, naar mijn AS,
 AMS-IX is razendsnel en live herstelbaar  
 een kantwerk van ducktape strekt zich hyper  
 over de exchanges, trilt bij koffie, vibreert elke daad van misogynie  
-ontploft gebeurtenissen doorheen het koper  
+ontploft gebeurtenissen doorheen het koper die  
+doorheen de request-response cycle  
+doorheen de vim-bindings van een blanke man  
+soms reactie veroorzaken, soms breken tot data  
   
 robin heeft zichzelf als veilig gemarkeerd  
   
