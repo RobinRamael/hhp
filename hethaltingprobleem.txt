@@ -63,10 +63,10 @@ een kantwerk van ducktape strekt zich hyper
 over de exchanges, trilt bij koffie, vibreert elke daad van misogynie  
 ontploft gebeurtenissen doorheen het koper  
 doorheen tientallen request-response cycles  
-doorheen de vim-bindings van een blanke man  
-de golf veroorzaakt soms een weerslag  
-soms breekt hij in de branding van apache  
-tot data  
+de golf veroorzaakt soms antwoord, soms  
+breekt hij in de branding van uWSGI tot data  
+die ik dan door mijn vim bindings laat glijden  
+en kan veranderen van vorm  
   
 robin heeft zichzelf als veilig gemarkeerd  
   
