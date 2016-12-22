@@ -63,7 +63,7 @@ een kantwerk van ducktape strekt zich hyper
 over de exchanges, trilt bij koffie, vibreert elke daad van misogynie  
 ontploft gebeurtenissen doorheen het koper  
 doorheen tientallen request-response cycles  
-de golf veroorzaakt soms antwoord, soms  
+de golf veroorzaakt altijd antwoord, soms  
 breekt hij in de branding van uWSGI tot data  
 die ik dan door mijn vim bindings laat glijden  
 en kan veranderen van vorm  
