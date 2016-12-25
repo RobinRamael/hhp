@@ -80,7 +80,7 @@ breekt hij in de branding van uWSGI tot data
 die ik dan door mijn vim bindings laat glijden  
 en kan veranderen van vorm  
   
-robin heeft zichzelf als veilig gemarkeerd  
+maar robin heeft zichzelf als veilig gemarkeerd  
   
 ergens ligt een been op zichzelf, een object in de euclidische ruimte die
 boston omvat  
