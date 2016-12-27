@@ -48,15 +48,18 @@ al-baghdadi wilt dat wij elkaar vernietigen.
 de fysica wilt dat wij elkaar vernietigen.  
 
 
-hoe draag je een iPad als een hand voor de mond?  
+  
 een kantwerk van ducktape strekt zich hyper over de exchanges,  
 trilt bij koffie, vibreert elke daad van misogynie  
-over double twisted pair, 802.11n,  
+MPEG-DASH over HTTP over double twisted pair,  
+een golf beweging over 802.11n, binnen de threshold  
 door jouw AS, over de backbone, naar mijn AS,  
 de golf veroorzaakt altijd antwoord,  
 ontploft gebeurtenissen doorheen het koper  
 ik laat hem door mijn bindings glijden, normaliseer  
 en breek hem op in gemakkelijke abstracties  
+  
+hoe draag je een iPad als een hand voor de mond?  
   
 soms breekt hij in de branding van apache tot data  
 die ik dan door mijn vim bindings laat glijden  
