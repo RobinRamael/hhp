@@ -54,8 +54,8 @@ trilt bij het ontbijt, vibreert elke daad van verzet
 als MPEG-DASH over HTTP over double twisted pair,  
 elke request een response, elke syn een ack of fin  
 door jouw AS, over de backbone, naar mijn AS,  
-een beweging over 802.11n, binnen de threshold  
-ontploffen er gebeurtenissen doorheen het koper  
+een beweging over 802.11n verwijt in de radio  
+ontploft gebeurtenissen doorheen het koper  
 ik laat de data door mijn vimbindings glijden,  
 normaliseer, breek op en abstraheer.  
   
