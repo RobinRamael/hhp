@@ -57,7 +57,9 @@ door jouw AS, over de backbone, naar mijn AS,
 een beweging over 802.11n verwijt in de radio  
 ontploft gebeurtenissen doorheen het koper  
 ik laat de data door mijn vimbindings glijden,  
-normaliseer, breek op en abstraheer.  
+normaliseer, breek op en abstraheer  
+elk gevoel een subklasse van object  
+elk event veralgemeend tot actie-reactie  
   
 hoe draag je een iPad als een hand voor de mond?  
   
