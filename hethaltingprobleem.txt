@@ -62,7 +62,6 @@ normaliseer, breek op, veralgemeen
 elk gevoel een subklasse van object  
 elk event veralgemeend tot abstractie actie-reactie  
   
-  
 in de nacht van 15 op 16 april 2013 was ik onschuldig en nam lsd  
 we hingen waarschuwingen aan de balkondeur, sloten de gordijnen,  
 zetten thee en verdwenen. de werkelijkheid is een doos van verleden.  
