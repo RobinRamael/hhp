@@ -49,6 +49,7 @@ de fysica wilt dat wij elkaar vernietigen.
 
 
   
+hoe draag je een iPad als een hand voor de mond?  
 een kantwerk van ducktape strekt zich hyper over de exchanges,  
 trilt bij het ontbijt, vibreert elke daad van verzet  
 als MPEG-DASH over HTTP over double twisted pair,  
@@ -61,7 +62,7 @@ normaliseer, breek op, veralgemeen
 elk gevoel een subklasse van object  
 elk event veralgemeend tot abstractie actie-reactie  
   
-hoe draag je een iPad als een hand voor de mond?  
+  
   
 soms breekt hij in de branding van apache tot data  
 die ik dan door mijn vim bindings laat glijden  
