@@ -91,7 +91,7 @@ door jouw AS, over de backbone, naar mijn AS,
 een beweging over 802.11n verdwijnt in de radio  
 ontploft gebeurtenissen doorheen het koper  
 ik laat de data door mijn bindings glijden,  
-normaliseer, breek op, veralgemeen  
+breek op, normaliseer, veralgemeen  
 elk gevoel een subklasse van object  
 elk event veralgemeend tot abstractie actie-reactie  
   
