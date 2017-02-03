@@ -68,8 +68,7 @@ abstraherend en codificerend de kluwen ducktape overzien
 elke lijn gedekt, elke hoek gekend en toch defect  
 een stapel op elkaar gegooide torens  
   
-watertown: MPEG-DASH over HTTP met TCP/TLS en OSPF over double twisted pair,  
-elk request, response, every single syn een ack of fin  
+watertown: MPEG-DASH over HTTP over double twisted pair,  
 door jouw AS, over de backbone, naar mijn AS,  
 ontploffen wij gebeurtenissen doorheen het koper.  
 ik laat de records door mijn bindings glijden en beslis.  
