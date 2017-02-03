@@ -68,10 +68,15 @@ abstraherend en codificerend de kluwen ducktape overzien
 elke lijn gedekt, elke hoek gekend en toch defect  
 een stapel op elkaar gegooide torens  
   
+  
+  
+  
 watertown: MPEG-DASH over HTTP over double twisted pair,  
 door jouw AS, over de backbone, naar mijn AS,  
 ontploffen wij gebeurtenissen door het koper.  
 ik laat de records door mijn bindings glijden en beslis.  
+  
+  
   
 Dzhokhar Tsarnaev, een open wonde in suburbia,  
 schrijft een laatste dreigement op de wand van een zeilboot in een cul-de-sac.  
