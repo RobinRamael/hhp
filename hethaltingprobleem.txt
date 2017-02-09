@@ -55,6 +55,7 @@ op de abstractie van mysql als key-value store) blinkt scheef
 in het mechanisme van zonsondergang doorheen een zolderraam  
 waar licht dat onder een hoek van 10 graden valt indirect wordt, "zacht"  
 het gedocumenteerd systeem van de vallende avond  
+beschreven in pogingen wiskunde, gestrand in techniek  
   
 routegeleid dalen wij af, de domme, blanke architecten,  
 hoeden badend in de endorfine van de groene unittest  
