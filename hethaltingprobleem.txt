@@ -62,6 +62,7 @@ en glijd er traag naar binnen,
 gedetermineerd en uitgespuugd doorheen de zeven lagen  
 ben ik geadresseerd maar overbodig  
 blijven hangen in de routing buffers  
+routegeleid  
   
 routegeleid dalen wij af, de domme, blanke architecten,  
 hoeden badend in de endorfine van de groene unittest  
