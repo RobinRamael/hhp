@@ -69,8 +69,7 @@ een soort beweging maakt, uitnodigend
   
 het protocol is simpel. je respecteert de simulatie  
 en schrijft enkel lijnen die je zelf kan onderhouden.  
-open poorten, verteer verpakt tot adresseerbaar  
-en schiet weg, een landschap van kabels en buffers  
+open poorten, verteer verpakt tot adresseerbaar en schiet weg  
   
 word ik verteerd en dan verpakt, geadresseerd maar overbodig  
 een labyrint met duidelijke markeringen in het koper en toch  
