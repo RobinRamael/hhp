@@ -77,11 +77,10 @@ c
   
 p  
 i  
-p  
+precies kabbel ik langzaam door wat  
   
-wi  
-fi  
-koper  
+ethernet, vergroei met het  
+koper, blijf hangen in de buffers.  
   
 het protocol is simpel. je respecteert de simulatie  
 en schrijft enkel lijnen die je zelf kan onderhouden.  
