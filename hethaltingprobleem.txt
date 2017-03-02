@@ -73,7 +73,7 @@ a trek ik mij de zweer omheen de knieen
   
 b peuter mij een gang doorheen de veren  
 c tot ik, goed bedoeld, maar overbodig door transacties  
-b c  
+b controle door transacties  
   
 c p  
 d i  
