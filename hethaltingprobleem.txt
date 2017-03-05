@@ -76,11 +76,11 @@ b proef het vocht, begin langzaam te verteren
 c transponeer naar toestand overbodig  
 b controle is illusie, het algoritme kan regeren  
   
-c protocolair,  
-d i  
-c preuts kruipt de data rondom mij, vormt zich  
+c protocolair, beklemmend, onvoorzichtig,  
+d in dit labyrint van buffers blijven hangen  
+c preuts kabbelt de data rondom mij, vormt zich  
   
-d van ether tot ding van mat glas, tot golven  
+d van ether tot ding van mat glas, tot gangen  
 d die elektronen in het koper zijn ontvallen  
   
 Dzhokhar Tsarnaev, een open wonde in suburbia,  
