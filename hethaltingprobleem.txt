@@ -76,7 +76,7 @@ b proef het vocht, begin langzaam te verteren
 c transponeer naar toestand overbodig  
 b controle is illusie, het algoritme kan regeren  
   
-c p  
+c protocolair,  
 d i  
 c preuts kruipt de data rondom mij, vormt zich  
   
