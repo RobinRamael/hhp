@@ -90,9 +90,10 @@ alles is reactie, de pijl van entropie
 met oorzaak en gevolg als getallen op een as.  
 af en toe draait iemand aan een knopje voor de show  
 er is een veiligheidsprocedure  
-en elke week is er vergadering.  
+en elke dag vergadering.  
   
-  
+read-only  
+een chinese kamer zonder outbox  
   
 Dzhokhar Tsarnaev, een open wonde in suburbia,  
 schrijft een laatste dreigement op de wand van een zeilboot in een cul-de-sac.  
