@@ -50,12 +50,6 @@ de fysica wilt dat wij elkaar vernietigen.
 
 ik weet niet of dat stom klinkt maar ik zie jullie zo graag.  
   
-de machinekamer op de keizersgracht  
-(een tak in een graaf op abstractie van mysql als key-value store)  
-blinkt scheef in het mechanisme van zonsondergang doorheen een zolderraam  
-waar licht dat onder een hoek van 10 graden valt indirect wordt, "zacht".  
-het gedocumenteerd systeem van de vallende avond.  
-  
 wat een degoutante lente  
 zwerend in de bomen spuwen reigers braaf hun nesten aan elkaar  
 niemand had de bloesems wat dan ook gevraagd  
@@ -66,6 +60,12 @@ voor de spiegel op het toilet geef ik toe aan de vraag van het publiek,
 duw onderbroek met duim en handpalm naar beneden,  
 kijk speels de lens in  
 en druk af.  
+  
+de machinekamer op de keizersgracht  
+(een tak in een graaf op abstractie van mysql als key-value store)  
+blinkt scheef in het mechanisme van zonsondergang doorheen een zolderraam  
+waar licht dat onder een hoek van 10 graden valt indirect wordt, "zacht".  
+het gedocumenteerd systeem van de vallende avond.  
   
 ik laat de data door mijn bindings glijden,  
 filter dagenlang van tien tot zes de smurrie van het internet  
