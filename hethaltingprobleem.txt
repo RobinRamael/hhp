@@ -90,7 +90,10 @@ blank leg ik vervalste lenigheid over de chaos
 schuur bedding in het stof van de geschiedenis  
 tot ze perfect rondom mijn billen past  
 en kijk, het systeem werkt fucking magnifiek  
+elke request een response, elke syn een ack of fin  
+door jouw AS, over de backbone, naar mijn AS  
 (maar gooi er nog wat hardware tegenaan).  
+  
   
   
 het systeem werkt magnifiek. alles automatisch.  
