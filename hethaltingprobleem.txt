@@ -164,7 +164,8 @@ en besluit niet te wachten, kan gaan en staan waar hij wil.
 eichmann als maretak, als christus aan de bomen,  
   
 stel, men bouwt een machine a die kan zeggen of een ander stopt  
-en maak met die dan nog een, b, die nooit stopt als a dat doet  
+en maak met die dan nog een, b, die nooit stopt als a dat wel doet en
+omgekeerd,  
 geef nu machine b eens aan zichzelf.  
   
   
