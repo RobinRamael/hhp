@@ -155,6 +155,7 @@ bestuurt de draaischijf voor handel in soma en data,
 valuta en grondstof van alles dat komt.  
   
 ik ben de gevaarlijkste abstractie  
+documenteer wat er gebeurt  
   
   
 troost is het verkeerde woord.  
