@@ -162,9 +162,9 @@ troost is het verkeerde woord.
   
   
 stel, ik kan het weten of jij ooit zal reageren  
-beslis te wachten als je dat na een tijd gaat doen,  
-te spreken als jij eigenlijk geen antwoord weet  
-stel die vraag dan aan mijzelf.  
+beslis te spreken als je eigenlijk geen antwoord weet  
+te wachten als jij dat na een tijd gaat doen  
+  
   
 stel, men bouwt een machine a die kan zeggen of een ander stopt  
 en maak met die dan nog een, b, die nooit stopt als a dat wel doet en
