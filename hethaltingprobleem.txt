@@ -32,8 +32,8 @@ trek ik mij de zweer omheen de lippen,
 proef het vocht, begin langzaam te verteren en  
 transponeer naar overbodig, de output simpel  
 consequentie van de input, het verbeten  
-protocol weet de vinden  
-in dit bufferlabyrint zal ik hem beheren  
+protocol weet de snelste weg te vinden  
+in dit labyrint zal ik hem beheren  
 prevelend de data in een vormpje dwingen  
   
   
