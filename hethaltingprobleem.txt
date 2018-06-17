@@ -36,6 +36,7 @@ protocol weet maar al te goed de weg te vinden
 in dit bufferlabyrint zal ik verplaatsen  
 prevelend de data in een vorm bedwingen  
   
+  
 controle is illusie, de input kan regeren.  
 protocollair ben ik, omschreven en voorzichtig  
 in dit labyrint van buffers blijven hangen.  
