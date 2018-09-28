@@ -32,7 +32,7 @@ trek ik mij de zweer omheen de lippen,
 proef het vocht, begin langzaam te verteren en  
 transponeer naar overbodig, de input, simpel,  
 consequentie van de output, probeert het  
-protocol met complicerende staten te binden.  
+protocol met complicerende toestand te binden.  
 in buffers, in transit, in waanzin, in rede  
 produceert het labyrinten materie, de blinde  
 beweging van het onschuldige netwerk in ether,  
