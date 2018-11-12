@@ -30,8 +30,8 @@ hormonaal, bijna, vind ik de weg, het midden
 tussen de divjes. verpakt, de context vergeten,  
 trek ik mij de zweer omheen de lippen,  
 proef het vocht, begin langzaam te verteren en  
-transponeer naar overbodig: de input is een  
-consequentie van de output, probeert het  
+transponeer naar overbodig: de invoer is een  
+consequentie van het resultaat, probeert het  
 protocol met de toestand te binden  
 in transit, echter, verliest iets de rede,  
 produceert het labyrinten materie, de blinde  
